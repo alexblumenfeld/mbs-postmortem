@@ -53,7 +53,7 @@ LIST OF FIGURES AND TABLES IN REPORT DRAFT 1.3 Oct 5.pdf
 - P. 26: timeseries_losses_vs_writedowns
   - losses_vs_writedowns_aug_18.ipynb
 - P. 27: timeseries_security_principal_pmts_composition
-  - losses_vs_writedowns_aug_18,ipynb
+  - losses_vs_writedowns_aug_18.ipynb
 - P. 29: timeseries_swap_performance
   - calcs_for_report.ipynb
 - P. 34: table_maiden_lane_performance
