@@ -92,7 +92,6 @@
       \field{month}{2}
       \field{title}{The Prepayment Risk of Mortgage-Backed Securities}
       \field{year}{1989}
-      \true{nocite}
     \endentry
     \entry{brendsel98}{article}{}
       \name{author}{1}{}{%
@@ -165,7 +164,6 @@
       \field{month}{9}
       \field{title}{Bear Stearns and EMC Mortgage to Pay \$28 Million to Settle FTC Charges of Unlawful Mortgage Servicing and Debt Collection Practices}
       \field{year}{2008}
-      \true{nocite}
     \endentry
     \entry{fcic09}{article}{}
       \name{author}{1}{}{%
@@ -191,7 +189,6 @@
       \field{journaltitle}{Rock Center for Corporate Governance and Stanford Law School}
       \field{title}{Report Pursuant to Section 129 of the Emergency Economic Stabilization Act of 2008: Loan To Facilitate the Acquisition of The Bear Steans Companies, Inc. by JPMorgan Chase \& Co.}
       \field{year}{2009}
-      \true{nocite}
     \endentry
     \entry{eavis13}{article}{}
       \name{author}{2}{}{%
@@ -224,7 +221,6 @@
       \field{month}{10}
       \field{title}{Considering the Fairness of JPMorgan's Deal}
       \field{year}{2013}
-      \true{nocite}
     \endentry
     \entry{efing14}{article}{}
       \name{author}{2}{}{%
@@ -258,11 +254,10 @@
       \field{title}{Structured Debt Ratings: Evidence on Conflicts of Interest}
       \field{volume}{116}
       \field{year}{2014}
-      \true{nocite}
       \field{pages}{46\bibrangedash 60}
       \range{pages}{15}
     \endentry
-    \entry{gorton2012}{report}{}
+    \entry{gorton12}{report}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=abfc3ef0f9c19d23bb87090177d56d1b}{%
            family={Gorton},
@@ -296,7 +291,6 @@
       \field{title}{Securitization}
       \field{type}{Working Paper}
       \field{year}{2012}
-      \true{nocite}
     \endentry
     \entry{doj13}{article}{}
       \name{author}{1}{}{%
@@ -326,7 +320,6 @@
       \field{month}{11}
       \field{title}{Justice Department, Federal and State Partners Secure Record \$13 Billion Global Settlement with JPMorgan for Misleading Investors About Securities Containing Toxic Mortgages}
       \field{year}{2013}
-      \true{nocite}
     \endentry
     \entry{gibbs13}{article}{}
       \name{author}{1}{}{%
@@ -352,7 +345,6 @@
       \field{month}{11}
       \field{title}{\$4.5 Billion Settlement with JPMorgan On Behalf of 21 Institutional Investors}
       \field{year}{2013}
-      \true{nocite}
     \endentry
     \entry{cpi09}{article}{}
       \name{author}{1}{}{%
@@ -382,7 +374,6 @@
       \field{month}{5}
       \field{title}{No. 17 of the Subprime 25: Encore Credit Corp/ECC Capital Corp./Bear Stearns Cos. Inc.}
       \field{year}{1989}
-      \true{nocite}
     \endentry
     \entry{rosenthal88}{book}{}
       \name{author}{2}{}{%
@@ -446,7 +437,6 @@
       \field{month}{6}
       \field{title}{NY Fed Says Maiden Lane Loans From AIG, Bear Stearns Rescues Have Been Paid Back}
       \field{year}{2012}
-      \true{nocite}
     \endentry
     \entry{scheicher17}{incollection}{}
       \name{author}{2}{}{%

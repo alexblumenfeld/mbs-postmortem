@@ -44,10 +44,10 @@
   <internal package="biblatex" priority="9" active="0">
     <generic>latex</generic>
     <provides type="dynamic">
-      <file>paper_20231111.bcf</file>
+      <file>paper_base.bcf</file>
     </provides>
     <requires type="dynamic">
-      <file>paper_20231111.bbl</file>
+      <file>paper_base.bbl</file>
     </requires>
     <requires type="static">
       <file>blx-dm.def</file>
@@ -64,19 +64,19 @@
     <generic>biber</generic>
     <cmdline>
       <binary>biber</binary>
-      <infile>paper_20231111</infile>
+      <infile>paper_base</infile>
     </cmdline>
     <input>
-      <file>paper_20231111.bcf</file>
+      <file>paper_base.bcf</file>
     </input>
     <output>
-      <file>paper_20231111.bbl</file>
+      <file>paper_base.bbl</file>
     </output>
     <provides type="dynamic">
-      <file>paper_20231111.bbl</file>
+      <file>paper_base.bbl</file>
     </provides>
     <requires type="dynamic">
-      <file>paper_20231111.bcf</file>
+      <file>paper_base.bcf</file>
     </requires>
     <requires type="editable">
       <file>references.bib</file>
