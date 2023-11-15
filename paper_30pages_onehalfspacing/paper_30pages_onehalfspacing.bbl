@@ -1,0 +1,572 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global}
+    \entry{baron98}{incollection}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=865f19073a256641038a8089cbca75a7}{%
+           family={Baron},
+           familyi={B\bibinitperiod},
+           given={Neil\bibnamedelima D.},
+           giveni={N\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=06f732cf045dcc9abb56c2415a9f274f}{%
+           family={Kendall},
+           familyi={K\bibinitperiod},
+           given={Leon\bibnamedelima T.},
+           giveni={L\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{hash=e58624d88edb35f154338b390ebf0425}{%
+           family={Fishman},
+           familyi={F\bibinitperiod},
+           given={Michael\bibnamedelima J.},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cambridge, MA}%
+      }
+      \list{publisher}{1}{%
+        {MIT Press}%
+      }
+      \strng{namehash}{865f19073a256641038a8089cbca75a7}
+      \strng{fullhash}{865f19073a256641038a8089cbca75a7}
+      \strng{bibnamehash}{865f19073a256641038a8089cbca75a7}
+      \strng{authorbibnamehash}{865f19073a256641038a8089cbca75a7}
+      \strng{authornamehash}{865f19073a256641038a8089cbca75a7}
+      \strng{authorfullhash}{865f19073a256641038a8089cbca75a7}
+      \strng{editorbibnamehash}{035eab9f441b0768b783bd02a2faa6ff}
+      \strng{editornamehash}{035eab9f441b0768b783bd02a2faa6ff}
+      \strng{editorfullhash}{035eab9f441b0768b783bd02a2faa6ff}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{A Primer on Securitization}
+      \field{title}{The Role of Rating Agencies in the Securitization Process}
+      \field{year}{1998}
+      \field{pages}{17\bibrangedash 29}
+      \range{pages}{13}
+    \endentry
+    \entry{becketti89}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=392461e9c8a1cabde8b9b47554199dbc}{%
+           family={Becketti},
+           familyi={B\bibinitperiod},
+           given={Sean},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{392461e9c8a1cabde8b9b47554199dbc}
+      \strng{fullhash}{392461e9c8a1cabde8b9b47554199dbc}
+      \strng{bibnamehash}{392461e9c8a1cabde8b9b47554199dbc}
+      \strng{authorbibnamehash}{392461e9c8a1cabde8b9b47554199dbc}
+      \strng{authornamehash}{392461e9c8a1cabde8b9b47554199dbc}
+      \strng{authorfullhash}{392461e9c8a1cabde8b9b47554199dbc}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Federal Reserve Bank of Kansas City Economic Review}
+      \field{month}{2}
+      \field{title}{The Prepayment Risk of Mortgage-Backed Securities}
+      \field{year}{1989}
+    \endentry
+    \entry{brendsel98}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=5bacbd1042688cf61de48cf7203b08c2}{%
+           family={Brendsel},
+           familyi={B\bibinitperiod},
+           given={Leland\bibnamedelima C.},
+           giveni={L\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=06f732cf045dcc9abb56c2415a9f274f}{%
+           family={Kendall},
+           familyi={K\bibinitperiod},
+           given={Leon\bibnamedelima T.},
+           giveni={L\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{hash=e58624d88edb35f154338b390ebf0425}{%
+           family={Fishman},
+           familyi={F\bibinitperiod},
+           given={Michael\bibnamedelima J.},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cambridge, MA}%
+      }
+      \list{publisher}{1}{%
+        {MIT Press}%
+      }
+      \strng{namehash}{5bacbd1042688cf61de48cf7203b08c2}
+      \strng{fullhash}{5bacbd1042688cf61de48cf7203b08c2}
+      \strng{bibnamehash}{5bacbd1042688cf61de48cf7203b08c2}
+      \strng{authorbibnamehash}{5bacbd1042688cf61de48cf7203b08c2}
+      \strng{authornamehash}{5bacbd1042688cf61de48cf7203b08c2}
+      \strng{authorfullhash}{5bacbd1042688cf61de48cf7203b08c2}
+      \strng{editorbibnamehash}{035eab9f441b0768b783bd02a2faa6ff}
+      \strng{editornamehash}{035eab9f441b0768b783bd02a2faa6ff}
+      \strng{editorfullhash}{035eab9f441b0768b783bd02a2faa6ff}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Securitization's Role in Housing Finance: The Special Contributions of the Government-Sponsored Enterprises}
+      \field{year}{1998}
+      \true{nocite}
+      \field{pages}{17\bibrangedash 29}
+      \range{pages}{13}
+    \endentry
+    \entry{ftc08}{article}{}
+      \name{author}{1}{}{%
+        {{un=1,uniquepart=given,hash=589765533d7bd9cdbb56610d80c17604}{%
+           family={Commission},
+           familyi={C\bibinitperiod},
+           given={Federal\bibnamedelima Trade},
+           giveni={F\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=1}}%
+      }
+      \strng{namehash}{589765533d7bd9cdbb56610d80c17604}
+      \strng{fullhash}{589765533d7bd9cdbb56610d80c17604}
+      \strng{bibnamehash}{589765533d7bd9cdbb56610d80c17604}
+      \strng{authorbibnamehash}{589765533d7bd9cdbb56610d80c17604}
+      \strng{authornamehash}{589765533d7bd9cdbb56610d80c17604}
+      \strng{authorfullhash}{589765533d7bd9cdbb56610d80c17604}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{9}
+      \field{title}{Bear Stearns and EMC Mortgage to Pay \$28 Million to Settle FTC Charges of Unlawful Mortgage Servicing and Debt Collection Practices}
+      \field{year}{2008}
+    \endentry
+    \entry{fcic09}{article}{}
+      \name{author}{1}{}{%
+        {{un=1,uniquepart=given,hash=ef4fd0a03d329b4d174039c4435e43c4}{%
+           family={Commission},
+           familyi={C\bibinitperiod},
+           given={Financial\bibnamedelimb Crisis\bibnamedelima Inquiry},
+           giveni={F\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim I\bibinitperiod},
+           givenun=1}}%
+      }
+      \strng{namehash}{ef4fd0a03d329b4d174039c4435e43c4}
+      \strng{fullhash}{ef4fd0a03d329b4d174039c4435e43c4}
+      \strng{bibnamehash}{ef4fd0a03d329b4d174039c4435e43c4}
+      \strng{authorbibnamehash}{ef4fd0a03d329b4d174039c4435e43c4}
+      \strng{authornamehash}{ef4fd0a03d329b4d174039c4435e43c4}
+      \strng{authorfullhash}{ef4fd0a03d329b4d174039c4435e43c4}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Rock Center for Corporate Governance and Stanford Law School}
+      \field{title}{Report Pursuant to Section 129 of the Emergency Economic Stabilization Act of 2008: Loan To Facilitate the Acquisition of The Bear Steans Companies, Inc. by JPMorgan Chase \& Co.}
+      \field{year}{2009}
+    \endentry
+    \entry{eavis13}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=fd7f42a8bd6bc873c4e41dd3f20c193a}{%
+           family={Eavis},
+           familyi={E\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=28b2b84b8ca8b1562521958e024e0833}{%
+           family={Protess},
+           familyi={P\bibinitperiod},
+           given={Ben},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d532b946347226b9bc1c3385dd1eae94}
+      \strng{fullhash}{d532b946347226b9bc1c3385dd1eae94}
+      \strng{bibnamehash}{d532b946347226b9bc1c3385dd1eae94}
+      \strng{authorbibnamehash}{d532b946347226b9bc1c3385dd1eae94}
+      \strng{authornamehash}{d532b946347226b9bc1c3385dd1eae94}
+      \strng{authorfullhash}{d532b946347226b9bc1c3385dd1eae94}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The New York Times}
+      \field{month}{10}
+      \field{title}{Considering the Fairness of JPMorgan's Deal}
+      \field{year}{2013}
+    \endentry
+    \entry{efing14}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=17739c5c413ae9d9ab858e9ef2259bf6}{%
+           family={Efing},
+           familyi={E\bibinitperiod},
+           given={Matthias},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=450afd072be9c78389a22f3d7eaceb4b}{%
+           family={Hau},
+           familyi={H\bibinitperiod},
+           given={Harald},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{54f2eb839c14fc387cfcf5e353f86be9}
+      \strng{fullhash}{54f2eb839c14fc387cfcf5e353f86be9}
+      \strng{bibnamehash}{54f2eb839c14fc387cfcf5e353f86be9}
+      \strng{authorbibnamehash}{54f2eb839c14fc387cfcf5e353f86be9}
+      \strng{authornamehash}{54f2eb839c14fc387cfcf5e353f86be9}
+      \strng{authorfullhash}{54f2eb839c14fc387cfcf5e353f86be9}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issue}{1}
+      \field{journaltitle}{Journal of Financial Economics}
+      \field{title}{Structured Debt Ratings: Evidence on Conflicts of Interest}
+      \field{volume}{116}
+      \field{year}{2014}
+      \field{pages}{46\bibrangedash 60}
+      \range{pages}{15}
+    \endentry
+    \entry{gorton12}{report}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=abfc3ef0f9c19d23bb87090177d56d1b}{%
+           family={Gorton},
+           familyi={G\bibinitperiod},
+           given={Gary},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e894b2a720da5a42eb9088e86d5ecfdb}{%
+           family={Metrick},
+           familyi={M\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {National Bureau of Economic Research}%
+      }
+      \strng{namehash}{957169ed8bfd64d5c050bf3aa9795a87}
+      \strng{fullhash}{957169ed8bfd64d5c050bf3aa9795a87}
+      \strng{bibnamehash}{957169ed8bfd64d5c050bf3aa9795a87}
+      \strng{authorbibnamehash}{957169ed8bfd64d5c050bf3aa9795a87}
+      \strng{authornamehash}{957169ed8bfd64d5c050bf3aa9795a87}
+      \strng{authorfullhash}{957169ed8bfd64d5c050bf3aa9795a87}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{number}{18611}
+      \field{title}{Securitization}
+      \field{type}{Working Paper}
+      \field{year}{2012}
+    \endentry
+    \entry{doj13}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=5cfe41a2ca5c3ee2fb41d6319301091f}{%
+           family={Justice},
+           familyi={J\bibinitperiod},
+           given={Department},
+           giveni={D\bibinitperiod},
+           givenun=0,
+           prefix={of},
+           prefixi={o\bibinitperiod},
+           prefixun=0}}%
+      }
+      \strng{namehash}{5cfe41a2ca5c3ee2fb41d6319301091f}
+      \strng{fullhash}{5cfe41a2ca5c3ee2fb41d6319301091f}
+      \strng{bibnamehash}{5cfe41a2ca5c3ee2fb41d6319301091f}
+      \strng{authorbibnamehash}{5cfe41a2ca5c3ee2fb41d6319301091f}
+      \strng{authornamehash}{5cfe41a2ca5c3ee2fb41d6319301091f}
+      \strng{authorfullhash}{5cfe41a2ca5c3ee2fb41d6319301091f}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Department of Justice Office of Public Affairs}
+      \field{month}{11}
+      \field{title}{Justice Department, Federal and State Partners Secure Record \$13 Billion Global Settlement with JPMorgan for Misleading Investors About Securities Containing Toxic Mortgages}
+      \field{year}{2013}
+    \endentry
+    \entry{gibbs13}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=bd6cca8308ef7e10781a889607b31d83}{%
+           family={LLP},
+           familyi={L\bibinitperiod},
+           given={Gibbs\bibnamedelimb \&\bibnamedelima Bruns},
+           giveni={G\bibinitperiod\bibinitdelim \\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{bd6cca8308ef7e10781a889607b31d83}
+      \strng{fullhash}{bd6cca8308ef7e10781a889607b31d83}
+      \strng{bibnamehash}{bd6cca8308ef7e10781a889607b31d83}
+      \strng{authorbibnamehash}{bd6cca8308ef7e10781a889607b31d83}
+      \strng{authornamehash}{bd6cca8308ef7e10781a889607b31d83}
+      \strng{authorfullhash}{bd6cca8308ef7e10781a889607b31d83}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{11}
+      \field{title}{\$4.5 Billion Settlement with JPMorgan On Behalf of 21 Institutional Investors}
+      \field{year}{2013}
+    \endentry
+    \entry{cpi09}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=edb382a60db799c0d3369220f764295e}{%
+           family={Public\bibnamedelima Integrity},
+           familyi={P\bibinitperiod\bibinitdelim I\bibinitperiod},
+           given={Center},
+           giveni={C\bibinitperiod},
+           givenun=0,
+           prefix={for},
+           prefixi={f\bibinitperiod},
+           prefixun=0}}%
+      }
+      \strng{namehash}{edb382a60db799c0d3369220f764295e}
+      \strng{fullhash}{edb382a60db799c0d3369220f764295e}
+      \strng{bibnamehash}{edb382a60db799c0d3369220f764295e}
+      \strng{authorbibnamehash}{edb382a60db799c0d3369220f764295e}
+      \strng{authornamehash}{edb382a60db799c0d3369220f764295e}
+      \strng{authorfullhash}{edb382a60db799c0d3369220f764295e}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Center for Public Integrity}
+      \field{month}{5}
+      \field{title}{No. 17 of the Subprime 25: Encore Credit Corp/ECC Capital Corp./Bear Stearns Cos. Inc.}
+      \field{year}{2009}
+    \endentry
+    \entry{rosenthal88}{book}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=a696b98324261eb29c1a5a5f7afa496d}{%
+           family={Rosenthal},
+           familyi={R\bibinitperiod},
+           given={James\bibnamedelima A.},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7654cfdaa68fc72ecccb68297d304338}{%
+           family={Ocampo},
+           familyi={O\bibinitperiod},
+           given={Juan\bibnamedelima M.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {John Wiley \& Sons, Inc.}%
+      }
+      \strng{namehash}{af20b5b90ffe566b1ebb8dff0533b88e}
+      \strng{fullhash}{af20b5b90ffe566b1ebb8dff0533b88e}
+      \strng{bibnamehash}{af20b5b90ffe566b1ebb8dff0533b88e}
+      \strng{authorbibnamehash}{af20b5b90ffe566b1ebb8dff0533b88e}
+      \strng{authornamehash}{af20b5b90ffe566b1ebb8dff0533b88e}
+      \strng{authorfullhash}{af20b5b90ffe566b1ebb8dff0533b88e}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Securitization of Credit: Inside the New Technology of Finance}
+      \field{year}{1988}
+      \true{nocite}
+    \endentry
+    \entry{schaefer12}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=cc7b7763b7442d116e8e4fb44340dd9f}{%
+           family={Schaefer},
+           familyi={S\bibinitperiod},
+           given={Steve},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{cc7b7763b7442d116e8e4fb44340dd9f}
+      \strng{fullhash}{cc7b7763b7442d116e8e4fb44340dd9f}
+      \strng{bibnamehash}{cc7b7763b7442d116e8e4fb44340dd9f}
+      \strng{authorbibnamehash}{cc7b7763b7442d116e8e4fb44340dd9f}
+      \strng{authornamehash}{cc7b7763b7442d116e8e4fb44340dd9f}
+      \strng{authorfullhash}{cc7b7763b7442d116e8e4fb44340dd9f}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Forbes}
+      \field{month}{6}
+      \field{title}{NY Fed Says Maiden Lane Loans From AIG, Bear Stearns Rescues Have Been Paid Back}
+      \field{year}{2012}
+    \endentry
+    \entry{scheicher17}{incollection}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=8d6d644afd865bf749c6c8093d2c5390}{%
+           family={Scheicher},
+           familyi={S\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=19680f5f954a6e7e2ad4729686392b44}{%
+           family={Wehmeyer},
+           familyi={W\bibinitperiod},
+           given={Stephanie},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=b77d7e90f8897b28c2dfd39cf4b9a80a}{%
+           family={Deku},
+           familyi={D\bibinitperiod},
+           given={Solomon\bibnamedelima Y.},
+           giveni={S\bibinitperiod\bibinitdelim Y\bibinitperiod}}}%
+        {{hash=a60bad461cabc834550abd64b9b7795b}{%
+           family={Kara},
+           familyi={K\bibinitperiod},
+           given={Alper},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \list{publisher}{1}{%
+        {Palgrave Macmillan}%
+      }
+      \strng{namehash}{be2f494597fa43f4da068fd2d805e014}
+      \strng{fullhash}{be2f494597fa43f4da068fd2d805e014}
+      \strng{bibnamehash}{be2f494597fa43f4da068fd2d805e014}
+      \strng{authorbibnamehash}{be2f494597fa43f4da068fd2d805e014}
+      \strng{authornamehash}{be2f494597fa43f4da068fd2d805e014}
+      \strng{authorfullhash}{be2f494597fa43f4da068fd2d805e014}
+      \strng{editorbibnamehash}{bac597a8c83284fb588858bc9b157247}
+      \strng{editornamehash}{bac597a8c83284fb588858bc9b157247}
+      \strng{editorfullhash}{bac597a8c83284fb588858bc9b157247}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Securitization: Past, Present and Future}
+      \field{title}{Securitization: Key Trends Since the Crisis}
+      \field{year}{2017}
+      \field{pages}{145\bibrangedash 167}
+      \range{pages}{23}
+    \endentry
+    \entry{sec13}{misc}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=728b7bc68b2c6de472cffe8e16a69c15}{%
+           family={Securities},
+           familyi={S\bibinitperiod}}}%
+        {{un=1,uniquepart=given,hash=5f5c85d6e917cbd149cf4f13f290660b}{%
+           family={Commission},
+           familyi={C\bibinitperiod},
+           given={Exchange},
+           giveni={E\bibinitperiod},
+           givenun=1}}%
+      }
+      \strng{namehash}{c4ce08aeaf51db3066b0e2b9ac61df5c}
+      \strng{fullhash}{c4ce08aeaf51db3066b0e2b9ac61df5c}
+      \strng{bibnamehash}{c4ce08aeaf51db3066b0e2b9ac61df5c}
+      \strng{authorbibnamehash}{c4ce08aeaf51db3066b0e2b9ac61df5c}
+      \strng{authornamehash}{c4ce08aeaf51db3066b0e2b9ac61df5c}
+      \strng{authorfullhash}{c4ce08aeaf51db3066b0e2b9ac61df5c}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{United States Securities and Exchange Commission v. J.P. Morgan Securities LLC, EMC Mortgage LLC, Bear Stearns Asset Backed Securities I, LLC, Structured Asset Mortgage Investments II, Inc., SACO I, Inc., and JP Morgan Acceptance Corporation}
+      \field{year}{2013}
+    \endentry
+    \entry{segoviano13}{report}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=e87f43504ba922b9d870a9dc4cd41aea}{%
+           family={Segoviano},
+           familyi={S\bibinitperiod},
+           given={Miguel},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cac380112824b5b6b3d5041548b09b73}{%
+           family={Jones},
+           familyi={J\bibinitperiod},
+           given={Bradley},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c927baf1ed24ada1974170f8f2f23343}{%
+           family={Lindner},
+           familyi={L\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=21416ce64ceeecb4811704cd82a0f850}{%
+           family={Blankenheim},
+           familyi={B\bibinitperiod},
+           given={Johannes},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {International Monetary Fund}%
+      }
+      \strng{namehash}{c446b7d4542f4faf3a9206db5d213a84}
+      \strng{fullhash}{91529c222353961b9d525e90af3e24cb}
+      \strng{bibnamehash}{c446b7d4542f4faf3a9206db5d213a84}
+      \strng{authorbibnamehash}{c446b7d4542f4faf3a9206db5d213a84}
+      \strng{authornamehash}{c446b7d4542f4faf3a9206db5d213a84}
+      \strng{authorfullhash}{91529c222353961b9d525e90af3e24cb}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Securitization: Lessons Learned and the Road Ahead}
+      \field{type}{techreport}
+      \field{year}{2013}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
