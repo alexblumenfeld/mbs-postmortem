@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.11.12)  14 NOV 2023 23:41
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.11.12)  18 NOV 2023 22:18
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -667,71 +667,75 @@ al/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}] [1] [2]
 File: ../figures/timeline_of_important_events.png Graphic file (type png)
 <use ../figures/timeline_of_important_events.png>
 Package pdftex.def Info: ../figures/timeline_of_important_events.png  used on i
-nput line 93.
+nput line 86.
 (pdftex.def)             Requested size: 362.37569pt x 167.36372pt.
- [6 <../figures/timeline_of_important_events.png>]
-<../figures/stackplot_share_of_principal_group_i.png, id=35, 555.0336pt x 320.5
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[6] [7 <../figures/timeline_of_important_events.png>]
+<../figures/stackplot_share_of_principal_group_i.png, id=38, 555.0336pt x 320.5
 1746pt>
 File: ../figures/stackplot_share_of_principal_group_i.png Graphic file (type pn
 g)
 <use ../figures/stackplot_share_of_principal_group_i.png>
 Package pdftex.def Info: ../figures/stackplot_share_of_principal_group_i.png  u
-sed on input line 107.
+sed on input line 100.
 (pdftex.def)             Requested size: 317.07614pt x 183.10277pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<../figures/stackplot_share_of_principal_group_ii.png, id=36, 562.2606pt x 349.
+<../figures/stackplot_share_of_principal_group_ii.png, id=39, 562.2606pt x 349.
 0641pt>
 File: ../figures/stackplot_share_of_principal_group_ii.png Graphic file (type p
 ng)
 <use ../figures/stackplot_share_of_principal_group_ii.png>
 Package pdftex.def Info: ../figures/stackplot_share_of_principal_group_ii.png  
-used on input line 114.
+used on input line 107.
 (pdftex.def)             Requested size: 317.07614pt x 196.84874pt.
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[7] [8 <../figures/stackplot_share_of_principal_group_i.png> <../figures/stackp
-lot_share_of_principal_group_ii.png>] (../paper_base/table_deal_summary.tex)
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[9]
-<../figures/stackplot_delinq_status.png, id=48, 484.9317pt x 336.0555pt>
+ [8 <../figures/stackplot_share_of_principal_group_i.png> <../figures/stackplot
+_share_of_principal_group_ii.png>] [9] (../paper_base/table_deal_summary.tex)
+<../figures/stackplot_delinq_status.png, id=48, 484.9317pt x 331.35796pt>
 File: ../figures/stackplot_delinq_status.png Graphic file (type png)
 <use ../figures/stackplot_delinq_status.png>
 Package pdftex.def Info: ../figures/stackplot_delinq_status.png  used on input 
-line 143.
-(pdftex.def)             Requested size: 407.66833pt x 282.5257pt.
- [10 <../figures/stackplot_delinq_status.png>]
-<../figures/stackplot_delinq_status_with_writeoffs.png, id=53, 738.5994pt x 336
-.0555pt>
+line 136.
+(pdftex.def)             Requested size: 317.07614pt x 216.66942pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[10]
+<../figures/stackplot_delinq_status_with_writeoffs.png, id=52, 738.5994pt x 331
+.35796pt>
 File: ../figures/stackplot_delinq_status_with_writeoffs.png Graphic file (type 
 png)
 <use ../figures/stackplot_delinq_status_with_writeoffs.png>
 Package pdftex.def Info: ../figures/stackplot_delinq_status_with_writeoffs.png 
- used on input line 154.
-(pdftex.def)             Requested size: 407.66833pt x 185.48232pt.
- [11 <../figures/stackplot_delinq_status_with_writeoffs.png>]
-<../figures/timeseries_prepayments.png, id=58, 387.3672pt x 205.9695pt>
+ used on input line 147.
+(pdftex.def)             Requested size: 407.66833pt x 182.88956pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<../figures/timeseries_prepayments.png, id=53, 387.3672pt x 205.9695pt>
 File: ../figures/timeseries_prepayments.png Graphic file (type png)
 <use ../figures/timeseries_prepayments.png>
 Package pdftex.def Info: ../figures/timeseries_prepayments.png  used on input l
-ine 165.
+ine 158.
 (pdftex.def)             Requested size: 362.37569pt x 192.69049pt.
- [12 <../figures/timeseries_prepayments.png>]
-[13]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[11 <../figures/stackplot_delinq_status.png>] [12 <../figures/stackplot_delinq_
+status_with_writeoffs.png> <../figures/timeseries_prepayments.png>] [13]
 <../figures/timeseries_delinq_status_fixed_vs_arm.png, id=67, 658.74104pt x 349
 .7868pt>
 File: ../figures/timeseries_delinq_status_fixed_vs_arm.png Graphic file (type p
 ng)
 <use ../figures/timeseries_delinq_status_fixed_vs_arm.png>
 Package pdftex.def Info: ../figures/timeseries_delinq_status_fixed_vs_arm.png  
-used on input line 186.
+used on input line 179.
 (pdftex.def)             Requested size: 362.37569pt x 192.4207pt.
- [14 <../figures/timeseries_delinq_status_fixed_vs_arm.png>]
+
+[14 <../figures/timeseries_delinq_status_fixed_vs_arm.png>]
 (../paper_base/table_realized_losses_fixed_vs_arm.tex)
 <../figures/timeseries_cumulative_losses_fixed_vs_arm.png, id=72, 405.4347pt x 
 265.2309pt>
@@ -739,7 +743,7 @@ File: ../figures/timeseries_cumulative_losses_fixed_vs_arm.png Graphic file (ty
 pe png)
 <use ../figures/timeseries_cumulative_losses_fixed_vs_arm.png>
 Package pdftex.def Info: ../figures/timeseries_cumulative_losses_fixed_vs_arm.p
-ng  used on input line 202.
+ng  used on input line 195.
 (pdftex.def)             Requested size: 317.07614pt x 207.43776pt.
  [15 <../figures/timeseries_cumulative_losses_fixed_vs_arm.png>]
 <../figures/timeseries_losses_vs_writedowns.png, id=77, 426.393pt x 281.1303pt>
@@ -747,7 +751,7 @@ ng  used on input line 202.
 File: ../figures/timeseries_losses_vs_writedowns.png Graphic file (type png)
 <use ../figures/timeseries_losses_vs_writedowns.png>
 Package pdftex.def Info: ../figures/timeseries_losses_vs_writedowns.png  used o
-n input line 219.
+n input line 212.
 (pdftex.def)             Requested size: 362.37569pt x 238.92755pt.
 
 
@@ -760,7 +764,7 @@ File: ../figures/timeseries_security_principal_pmts_composition.png Graphic fil
 e (type png)
 <use ../figures/timeseries_security_principal_pmts_composition.png>
 Package pdftex.def Info: ../figures/timeseries_security_principal_pmts_composit
-ion.png  used on input line 230.
+ion.png  used on input line 223.
 (pdftex.def)             Requested size: 317.07614pt x 213.26901pt.
 
 
@@ -772,7 +776,7 @@ s_security_principal_pmts_composition.png>]
 File: ../figures/timeseries_swap_performance.png Graphic file (type png)
 <use ../figures/timeseries_swap_performance.png>
 Package pdftex.def Info: ../figures/timeseries_swap_performance.png  used on in
-put line 255.
+put line 248.
 (pdftex.def)             Requested size: 317.07614pt x 316.56027pt.
  [19 <../figures/timeseries_swap_performance.png>] [20] [21] (../paper_base/tab
 le_maiden_lane_performance.tex
@@ -800,13 +804,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 19--20
 File: ../figures/timeseries_maiden_lane_ia3.png Graphic file (type png)
 <use ../figures/timeseries_maiden_lane_ia3.png>
 Package pdftex.def Info: ../figures/timeseries_maiden_lane_ia3.png  used on inp
-ut line 288.
+ut line 281.
 (pdftex.def)             Requested size: 317.07614pt x 207.98782pt.
 <../figures/timeseries_maiden_lane_ii1a3.png, id=103, 426.393pt x 279.6849pt>
 File: ../figures/timeseries_maiden_lane_ii1a3.png Graphic file (type png)
 <use ../figures/timeseries_maiden_lane_ii1a3.png>
 Package pdftex.def Info: ../figures/timeseries_maiden_lane_ii1a3.png  used on i
-nput line 295.
+nput line 288.
 (pdftex.def)             Requested size: 317.07614pt x 207.98782pt.
 
 
@@ -821,13 +825,13 @@ Package logreq Info: Writing requests to 'paper_30pages_onehalfspacing.run.xml'
 
  ) 
 Here is how much of TeX's memory you used:
- 13319 strings out of 476025
- 253816 string characters out of 5790016
+ 13324 strings out of 476025
+ 253959 string characters out of 5790016
  1864388 words of memory out of 5000000
- 33597 multiletter control sequences out of 15000+600000
+ 33602 multiletter control sequences out of 15000+600000
  523029 words of font info for 73 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 66i,10n,68p,2692b,1436s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 66i,10n,68p,2664b,1436s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 ></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><
@@ -837,7 +841,7 @@ sr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr
 cal/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/loc
 al/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/local
 /texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
-Output written on paper_30pages_onehalfspacing.pdf (30 pages, 1357694 bytes).
+Output written on paper_30pages_onehalfspacing.pdf (30 pages, 1341757 bytes).
 PDF statistics:
  173 PDF objects out of 1000 (max. 8388607)
  96 compressed objects within 1 object stream

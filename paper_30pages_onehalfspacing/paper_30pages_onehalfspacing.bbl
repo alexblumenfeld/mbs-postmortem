@@ -135,6 +135,7 @@
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{booktitle}{A Primer on Securitization}
       \field{title}{Securitization's Role in Housing Finance: The Special Contributions of the Government-Sponsored Enterprises}
       \field{year}{1998}
       \true{nocite}
@@ -346,6 +347,41 @@
       \field{month}{11}
       \field{title}{\$4.5 Billion Settlement with JPMorgan On Behalf of 21 Institutional Investors}
       \field{year}{2013}
+    \endentry
+    \entry{ospina18}{report}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=1fa12367da492b48df115556038ca01c}{%
+           family={Ospina},
+           familyi={O\bibinitperiod},
+           given={Juan},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=23c65b2fd3969e3b79f89556ae2384b8}{%
+           family={Uhlig},
+           familyi={U\bibinitperiod},
+           given={Harald},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {National Bureau of Economic Research}%
+      }
+      \strng{namehash}{7c73719fe90920b138f536b3d07a3caa}
+      \strng{fullhash}{7c73719fe90920b138f536b3d07a3caa}
+      \strng{bibnamehash}{7c73719fe90920b138f536b3d07a3caa}
+      \strng{authorbibnamehash}{7c73719fe90920b138f536b3d07a3caa}
+      \strng{authornamehash}{7c73719fe90920b138f536b3d07a3caa}
+      \strng{authorfullhash}{7c73719fe90920b138f536b3d07a3caa}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{number}{24509}
+      \field{title}{Mortgage-Backed Securities and the Financial Crisis of 2008: A Post Mortem}
+      \field{type}{Working Paper}
+      \field{year}{2018}
     \endentry
     \entry{cpi09}{article}{}
       \name{author}{1}{}{%
