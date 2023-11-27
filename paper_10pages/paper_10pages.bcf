@@ -2359,30 +2359,13 @@
   <!-- CITATION DATA -->
   <!-- SECTION 0 -->
   <bcf:bibdata section="0">
-    <bcf:datasource type="file" datatype="bibtex" glob="false">references_30pages_onehalfspacing.bib</bcf:datasource>
+    <bcf:datasource type="file" datatype="bibtex" glob="false">references_10pages.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="0">
     <bcf:citekey order="1" intorder="1">segoviano13</bcf:citekey>
     <bcf:citekey order="2" intorder="1">ospina18</bcf:citekey>
     <bcf:citekey order="3" intorder="1">fcic09</bcf:citekey>
     <bcf:citekey order="4" intorder="1">fcic09</bcf:citekey>
-    <bcf:citekey order="5" intorder="1">cpi09</bcf:citekey>
-    <bcf:citekey order="6" intorder="1">ftc08</bcf:citekey>
-    <bcf:citekey order="7" intorder="1">doj13</bcf:citekey>
-    <bcf:citekey order="8" intorder="1">becketti89</bcf:citekey>
-    <bcf:citekey order="9" intorder="1">becketti89</bcf:citekey>
-    <bcf:citekey order="10" intorder="1">schaefer12</bcf:citekey>
-    <bcf:citekey order="11" intorder="1">ftc08</bcf:citekey>
-    <bcf:citekey order="12" intorder="1">eavis13</bcf:citekey>
-    <bcf:citekey order="13" intorder="1">sec13</bcf:citekey>
-    <bcf:citekey order="14" intorder="1">gibbs13</bcf:citekey>
-    <bcf:citekey order="15" intorder="1">scheicher17</bcf:citekey>
-    <bcf:citekey order="16" intorder="1">scheicher17</bcf:citekey>
-    <bcf:citekey order="17" intorder="1">gorton12</bcf:citekey>
-    <bcf:citekey order="18" intorder="1">efing14</bcf:citekey>
-    <bcf:citekey order="19" intorder="1">baron98</bcf:citekey>
-    <bcf:citekey order="20" intorder="1">scheicher17</bcf:citekey>
-    <bcf:citekey order="21" intorder="1" nocite="1">*</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nyt">
@@ -2414,13 +2397,4 @@
     </bcf:sort>
   </bcf:sortingtemplate>
   <!-- DATALISTS -->
-  <bcf:datalist section="0"
-                name="nyt/global//global/global"
-                type="entry"
-                sortingtemplatename="nyt"
-                sortingnamekeytemplatename="global"
-                labelprefix=""
-                uniquenametemplatename="global"
-                labelalphanametemplatename="global">
-  </bcf:datalist>
 </bcf:controlfile>

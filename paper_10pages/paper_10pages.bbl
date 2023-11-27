@@ -1,0 +1,131 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global}
+    \entry{fcic09}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ef4fd0a03d329b4d174039c4435e43c4}{%
+           family={Commission},
+           familyi={C\bibinitperiod},
+           given={Financial\bibnamedelimb Crisis\bibnamedelima Inquiry},
+           giveni={F\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim I\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ef4fd0a03d329b4d174039c4435e43c4}
+      \strng{fullhash}{ef4fd0a03d329b4d174039c4435e43c4}
+      \strng{bibnamehash}{ef4fd0a03d329b4d174039c4435e43c4}
+      \strng{authorbibnamehash}{ef4fd0a03d329b4d174039c4435e43c4}
+      \strng{authornamehash}{ef4fd0a03d329b4d174039c4435e43c4}
+      \strng{authorfullhash}{ef4fd0a03d329b4d174039c4435e43c4}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Rock Center for Corporate Governance and Stanford Law School}
+      \field{title}{Report Pursuant to Section 129 of the Emergency Economic Stabilization Act of 2008: Loan To Facilitate the Acquisition of The Bear Steans Companies, Inc. by JPMorgan Chase \& Co.}
+      \field{year}{2009}
+    \endentry
+    \entry{ospina18}{report}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=1fa12367da492b48df115556038ca01c}{%
+           family={Ospina},
+           familyi={O\bibinitperiod},
+           given={Juan},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=23c65b2fd3969e3b79f89556ae2384b8}{%
+           family={Uhlig},
+           familyi={U\bibinitperiod},
+           given={Harald},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {National Bureau of Economic Research}%
+      }
+      \strng{namehash}{7c73719fe90920b138f536b3d07a3caa}
+      \strng{fullhash}{7c73719fe90920b138f536b3d07a3caa}
+      \strng{bibnamehash}{7c73719fe90920b138f536b3d07a3caa}
+      \strng{authorbibnamehash}{7c73719fe90920b138f536b3d07a3caa}
+      \strng{authornamehash}{7c73719fe90920b138f536b3d07a3caa}
+      \strng{authorfullhash}{7c73719fe90920b138f536b3d07a3caa}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{number}{24509}
+      \field{title}{Mortgage-Backed Securities and the Financial Crisis of 2008: A Post Mortem}
+      \field{type}{Working Paper}
+      \field{year}{2018}
+    \endentry
+    \entry{segoviano13}{report}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=e87f43504ba922b9d870a9dc4cd41aea}{%
+           family={Segoviano},
+           familyi={S\bibinitperiod},
+           given={Miguel},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cac380112824b5b6b3d5041548b09b73}{%
+           family={Jones},
+           familyi={J\bibinitperiod},
+           given={Bradley},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c927baf1ed24ada1974170f8f2f23343}{%
+           family={Lindner},
+           familyi={L\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=21416ce64ceeecb4811704cd82a0f850}{%
+           family={Blankenheim},
+           familyi={B\bibinitperiod},
+           given={Johannes},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {International Monetary Fund}%
+      }
+      \strng{namehash}{c446b7d4542f4faf3a9206db5d213a84}
+      \strng{fullhash}{91529c222353961b9d525e90af3e24cb}
+      \strng{bibnamehash}{c446b7d4542f4faf3a9206db5d213a84}
+      \strng{authorbibnamehash}{c446b7d4542f4faf3a9206db5d213a84}
+      \strng{authornamehash}{c446b7d4542f4faf3a9206db5d213a84}
+      \strng{authorfullhash}{91529c222353961b9d525e90af3e24cb}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Securitization: Lessons Learned and the Road Ahead}
+      \field{type}{techreport}
+      \field{year}{2013}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

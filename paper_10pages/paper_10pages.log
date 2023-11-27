@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.11.12)  26 NOV 2023 22:53
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.11.12)  26 NOV 2023 23:07
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**paper_30pages_onehalfspacing.tex
-(./paper_30pages_onehalfspacing.tex
+**paper_10pages.tex
+(./paper_10pages.tex
 LaTeX2e <2022-11-01> patch level 1
 L3 programming layer <2023-02-22>
 (/usr/local/texlive/2023/texmf-dist/tex/latex/base/article.cls
@@ -649,8 +649,8 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 ))
 \@quotelevel=\count427
 \@quotereset=\count428
- (./paper_30pages_onehalfspacing.aux)
-\openout1 = `paper_30pages_onehalfspacing.aux'.
+ (./paper_10pages.aux)
+\openout1 = `paper_10pages.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
 LaTeX Font Info:    ... okay on input line 19.
@@ -754,24 +754,22 @@ File: english.lbx 2023/03/05 v3.19 biblatex localization (PK/MW)
 Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Automatic encoding selection.
 (biblatex)             Assuming data encoding 'utf8'.
-\openout3 = `paper_30pages_onehalfspacing.bcf'.
+\openout3 = `paper_10pages.bcf'.
 
 Package biblatex Info: Trying to load bibliographic data...
-Package biblatex Info: ... file 'paper_30pages_onehalfspacing.bbl' found.
+Package biblatex Info: ... file 'paper_10pages.bbl' found.
 
-(./paper_30pages_onehalfspacing.bbl)
+(./paper_10pages.bbl)
 Package biblatex Info: Reference section=0 on input line 19.
 Package biblatex Info: Reference segment=0 on input line 19.
 Package hyperref Info: Link coloring ON on input line 19.
- (./paper_30pages_onehalfspacing.out)
-(./paper_30pages_onehalfspacing.out)
-LaTeX Font Info:    Trying to load font information for U+msa on input line 30.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 39.
 
 
 (/usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 30.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 39.
 
 
 (/usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/umsb.fd
@@ -779,182 +777,70 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [1
 
 {/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/loc
-al/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}] [1] [2] 
-[3] [4]
-[5]
-<../figures/timeline_of_important_events.png, id=30, 643.9257pt x 297.2706pt>
-File: ../figures/timeline_of_important_events.png Graphic file (type png)
-<use ../figures/timeline_of_important_events.png>
-Package pdftex.def Info: ../figures/timeline_of_important_events.png  used on i
-nput line 86.
-(pdftex.def)             Requested size: 362.37569pt x 167.29594pt.
-
+al/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}] [1] [2]
+(../paper_base/table_deal_summary.tex)
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[6]
-<../figures/stackplot_share_of_principal_group_i.png, id=36, 554.5518pt x 320.1
-561pt>
-File: ../figures/stackplot_share_of_principal_group_i.png Graphic file (type pn
-g)
-<use ../figures/stackplot_share_of_principal_group_i.png>
-Package pdftex.def Info: ../figures/stackplot_share_of_principal_group_i.png  u
-sed on input line 101.
-(pdftex.def)             Requested size: 317.07614pt x 183.05754pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<../figures/stackplot_share_of_principal_group_ii.png, id=37, 562.0197pt x 349.
-0641pt>
-File: ../figures/stackplot_share_of_principal_group_ii.png Graphic file (type p
-ng)
-<use ../figures/stackplot_share_of_principal_group_ii.png>
-Package pdftex.def Info: ../figures/stackplot_share_of_principal_group_ii.png  
-used on input line 109.
-(pdftex.def)             Requested size: 317.07614pt x 196.93396pt.
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[7 <../figures/timeline_of_important_events.png>] [8 <../figures/stackplot_shar
-e_of_principal_group_i.png>] [9 <../figures/stackplot_share_of_principal_group_
-ii.png>] (../paper_base/table_deal_summary.tex)
-<../figures/stackplot_delinq_status_with_writeoffs.png, id=50, 737.6358pt x 330
+[3]
+<../figures/stackplot_delinq_status_with_writeoffs.png, id=25, 737.6358pt x 330
 .5148pt>
 File: ../figures/stackplot_delinq_status_with_writeoffs.png Graphic file (type 
 png)
 <use ../figures/stackplot_delinq_status_with_writeoffs.png>
 Package pdftex.def Info: ../figures/stackplot_delinq_status_with_writeoffs.png 
- used on input line 144.
+ used on input line 98.
 (pdftex.def)             Requested size: 362.37569pt x 162.37225pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[10]
-<../figures/timeseries_prepayments.png, id=54, 330.9966pt x 150.5625pt>
-File: ../figures/timeseries_prepayments.png Graphic file (type png)
-<use ../figures/timeseries_prepayments.png>
-Package pdftex.def Info: ../figures/timeseries_prepayments.png  used on input l
-ine 160.
-(pdftex.def)             Requested size: 362.37569pt x 164.84732pt.
- [11 <../figures/stackplot_delinq_status_with_writeoffs.png>] [12 <../figures/t
-imeseries_prepayments.png>] [13]
-<../figures/timeseries_delinq_status_fixed_vs_arm.png, id=67, 659.3433pt x 348.
-5823pt>
-File: ../figures/timeseries_delinq_status_fixed_vs_arm.png Graphic file (type p
-ng)
-<use ../figures/timeseries_delinq_status_fixed_vs_arm.png>
-Package pdftex.def Info: ../figures/timeseries_delinq_status_fixed_vs_arm.png  
-used on input line 182.
-(pdftex.def)             Requested size: 362.37569pt x 191.58788pt.
- [14 <../figures/timeseries_delinq_status_fixed_vs_arm.png>] (../paper_base/tab
-le_realized_losses_fixed_vs_arm.tex)
-<../figures/timeseries_cumulative_losses_fixed_vs_arm.png, id=72, 404.4711pt x 
-249.3315pt>
-File: ../figures/timeseries_cumulative_losses_fixed_vs_arm.png Graphic file (ty
-pe png)
-<use ../figures/timeseries_cumulative_losses_fixed_vs_arm.png>
-Package pdftex.def Info: ../figures/timeseries_cumulative_losses_fixed_vs_arm.p
-ng  used on input line 199.
-(pdftex.def)             Requested size: 317.07614pt x 195.45552pt.
-
-[15 <../figures/timeseries_cumulative_losses_fixed_vs_arm.png>]
-<../figures/timeseries_losses_vs_writedowns.png, id=77, 425.1885pt x 280.4076pt
+ [4 <../figures/stackplot_delinq_status_with_writeoffs.png>]
+<../figures/timeseries_losses_vs_writedowns.png, id=31, 425.1885pt x 280.4076pt
 >
 File: ../figures/timeseries_losses_vs_writedowns.png Graphic file (type png)
 <use ../figures/timeseries_losses_vs_writedowns.png>
 Package pdftex.def Info: ../figures/timeseries_losses_vs_writedowns.png  used o
-n input line 217.
+n input line 122.
 (pdftex.def)             Requested size: 362.37569pt x 238.99792pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[16]
-<../figures/timeseries_security_principal_pmts_composition.png, id=81, 387.1263
+[5]
+<../figures/timeseries_security_principal_pmts_composition.png, id=35, 387.1263
 pt x 205.2468pt>
 File: ../figures/timeseries_security_principal_pmts_composition.png Graphic fil
 e (type png)
 <use ../figures/timeseries_security_principal_pmts_composition.png>
 Package pdftex.def Info: ../figures/timeseries_security_principal_pmts_composit
-ion.png  used on input line 229.
+ion.png  used on input line 134.
 (pdftex.def)             Requested size: 317.07614pt x 168.10614pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[17 <../figures/timeseries_losses_vs_writedowns.png>] [18 <../figures/timeserie
-s_security_principal_pmts_composition.png>]
-<../figures/timeseries_swap_performance.png, id=91, 425.9112pt x 278.7213pt>
-File: ../figures/timeseries_swap_performance.png Graphic file (type png)
-<use ../figures/timeseries_swap_performance.png>
-Package pdftex.def Info: ../figures/timeseries_swap_performance.png  used on in
-put line 255.
-(pdftex.def)             Requested size: 317.07614pt x 207.49663pt.
- [19 <../figures/timeseries_swap_performance.png>] [20] (../paper_base/table_ma
-iden_lane_performance.tex
-Underfull \hbox (badness 10000) in paragraph at lines 19--19
-[]\OT1/cmr/m/n/12 Most Re-cent Credit Rat-ing
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 19--19
-[]\OT1/cmr/m/n/12 Baa3 (low-est
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 19--19
-\OT1/cmr/m/n/12 investment-grade
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 19--20
-[]\OT1/cmr/m/n/12 Ca (non-investment
- []
-
-) [21]
-<../figures/timeseries_maiden_lane_ia3.png, id=102, 425.9112pt x 278.7213pt>
-File: ../figures/timeseries_maiden_lane_ia3.png Graphic file (type png)
-<use ../figures/timeseries_maiden_lane_ia3.png>
-Package pdftex.def Info: ../figures/timeseries_maiden_lane_ia3.png  used on inp
-ut line 291.
-(pdftex.def)             Requested size: 317.07614pt x 207.49663pt.
-<../figures/timeseries_maiden_lane_ii1a3.png, id=103, 425.9112pt x 278.7213pt>
-File: ../figures/timeseries_maiden_lane_ii1a3.png Graphic file (type png)
-<use ../figures/timeseries_maiden_lane_ii1a3.png>
-Package pdftex.def Info: ../figures/timeseries_maiden_lane_ii1a3.png  used on i
-nput line 299.
-(pdftex.def)             Requested size: 317.07614pt x 207.49663pt.
- [22 <../figures/timeseries_maiden_lane_ia3.png>] [23 <../figures/timeseries_ma
-iden_lane_ii1a3.png>] [24] [25] [26] [27] [28] [29]
-(./paper_30pages_onehalfspacing.aux)
-Package logreq Info: Writing requests to 'paper_30pages_onehalfspacing.run.xml'
-.
-\openout1 = `paper_30pages_onehalfspacing.run.xml'.
+[6 <../figures/timeseries_losses_vs_writedowns.png>] [7 <../figures/timeseries_
+security_principal_pmts_composition.png>] [8] [9] (./paper_10pages.aux)
+Package logreq Info: Writing requests to 'paper_10pages.run.xml'.
+\openout1 = `paper_10pages.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 19180 strings out of 476025
- 345619 string characters out of 5790016
- 1862388 words of memory out of 5000000
- 39379 multiletter control sequences out of 15000+600000
- 523029 words of font info for 73 fonts, out of 8000000 for 9000
+ 18955 strings out of 476025
+ 336705 string characters out of 5790016
+ 1860388 words of memory out of 5000000
+ 39174 multiletter control sequences out of 15000+600000
+ 522375 words of font info for 71 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 66i,10n,68p,2294b,1438s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 66i,8n,68p,2277b,1429s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 ></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
-</usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><
-/usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></u
-sr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr
-/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/lo
-cal/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/loc
-al/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/local
-/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
-Output written on paper_30pages_onehalfspacing.pdf (30 pages, 1846148 bytes).
+</usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></
+usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></us
+r/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/l
+ocal/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/loc
+al/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
+Output written on paper_10pages.pdf (10 pages, 635883 bytes).
 PDF statistics:
- 175 PDF objects out of 1000 (max. 8388607)
- 100 compressed objects within 1 object stream
+ 85 PDF objects out of 1000 (max. 8388607)
+ 52 compressed objects within 1 object stream
  1 named destinations out of 1000 (max. 500000)
- 61 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 16 words of extra memory for PDF output out of 10000 (max. 10000000)
 
